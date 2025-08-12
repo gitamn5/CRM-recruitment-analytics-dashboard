@@ -58,10 +58,10 @@ Edit
 
 ## 📷 Dashboard Preview
 
-![KPI'S+DEMOGRAPHICS](Images/Screenshot 2025-08-12 200300.png)
-![JOB APPLICATION METRICS](Images/Screenshot 2025-08-12 200239.png)
-![COMPARISON,STATUS,OUTCOME METRICS](Images/Screenshot 2025-08-12 200223.png)
-![EMPLOYEE CREDENTIALS](Images/Screenshot 2025-08-12 200153.png)
+![KPI'S+DEMOGRAPHICS](images/Screenshot 2025-08-12 200300.png)
+![JOB APPLICATION METRICS](images/Screenshot 2025-08-12 200239.png)
+![COMPARISON,STATUS,OUTCOME METRICS](images/Screenshot 2025-08-12 200223.png)
+![EMPLOYEE CREDENTIALS](images/Screenshot 2025-08-12 200153.png)
 
 
 ---
