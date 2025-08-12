@@ -57,15 +57,17 @@ Edit
 ---
 
 ## 📷 Dashboard Preview
-Screenshot 2025-08-12 200300
-Screenshot 2025-08-12 200239
-Screenshot 2025-08-12 200223
-Screenshot 2025-08-12 200153
+
+![KPI'S+DEMOGRAPHICS](images/Screenshot 2025-08-12 200300.png)
+![JOB APPLICATION METRICS](images/Screenshot 2025-08-12 200239.png)
+![COMPARISON,STATUS,OUTCOME METRICS](Images/Screenshot 2025-08-12 200223.png)
+![EMPLOYEE CREDENTIALS](Images/Screenshot 2025-08-12 200153.png)
+
 
 ---
 
 ## 🔗 Live Dashboard Link
-[www.linkedin.com/in/aman-patel-78994932b]
+[https://lookerstudio.google.com/reporting/143ff6b3-d54c-4589-9275-cc0d1839e69b]
 
 ---
 
@@ -81,5 +83,5 @@ Screenshot 2025-08-12 200153
 AMAN PATEL
 Data Analyst | CRM & BI Enthusiast
 
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_LINK)  
+📧 Email: iamamanpatel001@gmail.com  
+🔗 LinkedIn: [www.linkedin.com/in/aman-patel-78994932b)  
